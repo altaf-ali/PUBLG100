@@ -1,0 +1,23 @@
+# Introduction to Quantitative Methods  
+
+```{r setup, include=FALSE, cache=FALSE, results='asis'}
+library(rvest)
+
+knitr::knit_hooks$set(
+  output = function(x, options) {
+    # remove html comments and other junk
+    paste0(gsub("<!--(.*?)-->", "", x))
+    }
+  )
+```
+
+```{r echo=FALSE, return="asis", comment=NA}
+url <- "https://www.ucl.ac.uk/spp/teaching/masters/courses/iqm1"
+content = html(url)
+```
+
+### About this course
+
+```{r echo=FALSE, return="asis", comment=NA}
+print(html_node(content, xpath='//*[@id="maincontent"]/p[5]'))
+```

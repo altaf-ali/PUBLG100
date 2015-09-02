@@ -1,0 +1,47 @@
+# R Resources
+
+### R and RStudio
+
+Install R and RStudio on your computer by downloading them from the following sources:
+
+- Download R from [The Comprehensive R Archive Network (CRAN)](https://cran.r-project.org) 
+- Download RStudio from [RStudio.com](https://www.rstudio.com)
+
+### Online Learning
+
+- [DataCamp](https://www.datacamp.com/swirl-r-tutorial). Excellent interactive tutorial if you've never used R before.
+- [Lynda](http://www.lynda.com). UCL has a subscription to [Lynda](http://www.lynda.com) which gives you free access to over 3000 courses including these courses on R:
+    - [Up and Running with R](http://www.lynda.com/R-tutorials/Up-Running-R/120612-2.html)
+    - [R Statistics Essential Training](http://www.lynda.com/R-tutorials/R-Statistics-Essential-Training/142447-2.html)
+    - [Code Clinic: R](http://www.lynda.com/R-tutorials/Code-Clinic-R/372541-2.html)
+- [Try R](http://tryr.codeschool.com). An interactive tutorial from Code School that walks you through the basics of R.
+
+### Documentation
+
+- [Manuals, Reference and Miscellaneous Material](https://stat.ethz.ch/R-manual/R-devel/doc/html/index.html)
+- Packages. There are numerous online resources where you can get documentation for R packages. While you can always use Google to look for help, these sources offer easy access to documentation for nearly every R package available.
+    - [Packages in the standard library (CRAN)](https://stat.ethz.ch/R-manual/R-devel/doc/html/packages.html)
+    - [Contributed Packages (CRAN)](https://cran.r-project.org/web/packages/)
+    - [inside-R Package Reference](http://www.inside-r.org/packages)
+    - [Rdocumentation.org](http://www.rdocumentation.org)
+    - [R Packages by Ian Howson](http://rpackages.ianhowson.com)
+
+### Other Resources
+
+- [Quick-R](http://www.statmethods.net)
+- [R Vocabulary](http://adv-r.had.co.nz/Vocabulary.html)
+- [Advanced R](http://adv-r.had.co.nz)
+- [R language for programmers](http://www.johndcook.com/blog/r_language_for_programmers)
+- [Numerical Analysis & Statistics: MATLAB, R, NumPy](http://hyperpolyglot.org/numerical-analysis)
+- [Cheetheets from RStudio](https://www.rstudio.com/resources/cheatsheets)
+    - [Data Wrangling with dplyr and tidyr (pdf)](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
+    - [Data Visualization Cheat Sheet (pdf)](https://www.rstudio.com/wp-content/uploads/2015/05/ggplot2-cheatsheet.pdf)
+
+### R Humor
+
+Collection of useful (and sometimes funny) tips on R.
+
+- [aRrgh: a newcomer’s (angry) guide to R](http://arrgh.tim-smith.us)
+- [R, the master troll of statistical languages](http://www.talyarkoni.org/blog/2012/06/08/r-the-master-troll-of-statistical-languages)
+- [The R Inferno (pdf)](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf)
+

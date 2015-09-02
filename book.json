@@ -1,0 +1,8 @@
+{
+   "gitbook": ">= 2.2.0",
+   
+    "structure": {
+        "readme": "intro.md"
+    }
+}
+
